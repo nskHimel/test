@@ -1,5 +1,5 @@
 # Someone told me that I would save a lot of time by writing
-# a program to generate generate_tictactoe.py, to generate
+# a program to generate generate_code_for_tictactoe.py, to generate
 # tictactoe.py, so I wrote this program:
 
 fo = open('generate_tictactoe.py', 'w')
